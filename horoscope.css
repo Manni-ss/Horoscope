@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    vertical-align: top;
+    font-size: 15px;
+    background-color: lightblue;
+    position: relative;
+}
+h1{
+     text-align: center;
+     font-size: 45px;
+     font-family: "Avenir";
+
+ }
+h2 {
+    text-align: center;
+    font-size: 18px;
+    font-family: "Serif";
+}
+
+#coverImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+button {
+    width: 40px;
+    color: #770000;
+}
+
+#outputSign {
+    font-size: 20px;
+}
